@@ -1,0 +1,20 @@
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px;
+    grid-template-rows: 60px 60px 60px 60px 60px 60px 60px 60px 60px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+.grid-item {
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    font-size: 20px;
+}
+.forest {
+    background-color: #1d6b1b;
+}
+.plains {
+    background-color: #e6d391;
+}
+.hills {
+    background-color: #986b37;
+}
